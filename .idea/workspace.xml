@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0422005-aca5-4eaa-91d2-b62f31bddfb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HW_DSO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW DSO7/dockerfile" afterDir="false" />
+    <list default="true" id="b0422005-aca5-4eaa-91d2-b62f31bddfb5" name="Changes" comment="Df tomcat">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW DSO7/dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/HW DSO7/dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,11 +66,24 @@
       <option name="presentableId" value="Default" />
       <updated>1748280442119</updated>
       <workItem from="1748280443475" duration="1971000" />
-      <workItem from="1748320447178" duration="1349000" />
+      <workItem from="1748320447178" duration="2424000" />
     </task>
+    <task id="LOCAL-00001" summary="Df tomcat">
+      <option name="closed" value="true" />
+      <created>1748321972213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748321972213</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Df tomcat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Df tomcat" />
   </component>
 </project>
